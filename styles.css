@@ -61,6 +61,12 @@ p{
     font-weight: 600;
 }
 
+.box:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    cursor: url('assets/images/bi--hand-index-thumb-fill\ \(1\).png'), pointer;
+}
+
 .profileName{
     display: flex;
     flex-direction: column;
